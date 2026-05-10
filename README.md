@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Tuhin Dutta
+# 👋 Hi, I'm Tuhin Kumar Dutta
 
-🚀 Data Scientist | AI/ML Engineer | Data Analyst  
+🚀 Senior AI Systems Engineer | LLM, Big Data & Statistical Modeling| Data Engineering  
 💡 Building practical AI systems, data products, and intelligent automation solutions  
 ⚙️ Interested in NLP, Generative AI, Computer Vision, MLOps, and Distributed Systems
+
+![Mood](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F0dTNheDc3anZvZHgwZzgxZjhlcmMwcjE3bXNiNGZmejM0cGtyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif)
 
 ---
 
