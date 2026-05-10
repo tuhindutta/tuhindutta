@@ -1,28 +1,9 @@
 
-
-<table>
-<tr>
-<td width="95%">
-
 # 👋 Hi, I'm Tuhin
 
 🚀 Senior AI Systems Engineer | LLM, Big Data & Statistical Modeling| Data Engineering  
 💡 Building practical AI systems, data products, and intelligent automation solutions  
 ⚙️ Interested in NLP, Generative AI, Computer Vision, MLOps, and Distributed Systems  
-🧠 Exploring scalable AI architectures, orchestration frameworks, and LLM-based agent systems  
-🔍 Working across data engineering, machine learning, deployment, and platform integration workflows  
-📊 Interested in bridging AI research with practical engineering and real-world production systems  
-🛠️ Experimenting with MLOps, containerized deployments, AI gateways, and distributed AI infrastructure  
-
-</td>
-
-<td width="5%">
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F0dTNheDc3anZvZHgwZzgxZjhlcmMwcjE3bXNiNGZmejM0cGtyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="250">
-
-</td>
-</tr>
-</table>
 
 ---
 
