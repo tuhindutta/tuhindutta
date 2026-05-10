@@ -8,7 +8,7 @@
 
 🚀 Senior AI Systems Engineer | LLM, Big Data & Statistical Modeling| Data Engineering  
 💡 Building practical AI systems, data products, and intelligent automation solutions  
-⚙️ Interested in NLP, Generative AI, Computer Vision, MLOps, and Distributed Systems
+⚙️ Interested in NLP, Generative AI, Computer Vision, MLOps, and Distributed Systems  
 🧠 Exploring scalable AI architectures, orchestration frameworks, and LLM-based agent systems  
 🔍 Working across data engineering, machine learning, deployment, and platform integration workflows  
 📊 Interested in bridging AI research with practical engineering and real-world production systems  
