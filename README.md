@@ -80,23 +80,7 @@ I enjoy solving complex problems, designing scalable logic, and turning messy re
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
-# 💼 Professional Experience
-
-## Lead Data Analyst / AI Engineer
-### [Capco Technologies](https://www.capco.com)
-
-- Worked on enterprise-scale banking projects involving large distributed datasets.
-- Led development and enhancement of multiple data assets stored in HDFS as Parquet datasets.
-- Built business logic pipelines and analytical solutions powering APIs and dashboards.
-- Collaborated with stakeholders, data engineers, and analysts across multiple regions.
-- Led a small analyst team while handling architecture discussions, requirement gathering, and logic implementation.
-- Developed knowledge-based AI chatbot solutions using LLMs.
-
----
-
 # 🚀 Featured Projects
-
----
 
 ## 🔹 AI Research Orchestration Platform *(Ongoing)*
 
