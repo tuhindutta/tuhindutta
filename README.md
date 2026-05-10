@@ -38,7 +38,7 @@ Over the past few years, I’ve worked across:
 - Computer vision and gesture recognition systems
 - Distributed environments using Hadoop, Docker, Kubernetes, and Airflow
 
-I enjoy solving complex problems, designing scalable logic, and turning messy requirements into production-oriented solutions.
+I enjoy designing scalable logic, and turning messy requirements into production-oriented solutions.
 
 ---
 
