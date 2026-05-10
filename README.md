@@ -1,10 +1,28 @@
-# 👋 Hi, I'm Tuhin Kumar Dutta
+
+
+<table>
+<tr>
+<td width="95%">
+
+# 👋 Hi, I'm Tuhin Dutta
 
 🚀 Senior AI Systems Engineer | LLM, Big Data & Statistical Modeling| Data Engineering  
 💡 Building practical AI systems, data products, and intelligent automation solutions  
 ⚙️ Interested in NLP, Generative AI, Computer Vision, MLOps, and Distributed Systems
+🧠 Exploring scalable AI architectures, orchestration frameworks, and LLM-based agent systems  
+🔍 Working across data engineering, machine learning, deployment, and platform integration workflows  
+📊 Interested in bridging AI research with practical engineering and real-world production systems  
+🛠️ Experimenting with MLOps, containerized deployments, AI gateways, and distributed AI infrastructure  
 
-![Mood](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F0dTNheDc3anZvZHgwZzgxZjhlcmMwcjE3bXNiNGZmejM0cGtyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif)
+</td>
+
+<td width="5%">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F0dTNheDc3anZvZHgwZzgxZjhlcmMwcjE3bXNiNGZmejM0cGtyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="250">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -70,6 +88,10 @@ I enjoy solving complex problems, designing scalable logic, and turning messy re
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-121D33?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
 
