@@ -195,8 +195,7 @@ https://techtrail.tuhindutta.com/zenalyze-ai-assisted-data-analysis-tool
 # 🏆 Achievements
 
 - 🏅 Quarterly Clap Award recipient
-- ⭐ Recognized for performance comparable to senior professionals early in career
-- 🚀 Rapid growth into leadership responsibilities
+- ⭐ Trailblazer in multiple initiaves and solutions
 
 ---
 
