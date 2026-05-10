@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Tuhin
+### Senior AI Systems Engineer | LLM, Big Data & Statistical Modeling| Data Engineering
 
-🚀 Senior AI Systems Engineer | LLM, Big Data & Statistical Modeling| Data Engineering  
 💡 Building practical AI systems, data products, and intelligent automation solutions  
 ⚙️ Interested in NLP, Generative AI, Computer Vision, MLOps, and Distributed Systems  
 
