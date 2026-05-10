@@ -4,7 +4,7 @@
 <tr>
 <td width="95%">
 
-# 👋 Hi, I'm Tuhin Dutta
+# 👋 Hi, I'm Tuhin
 
 🚀 Senior AI Systems Engineer | LLM, Big Data & Statistical Modeling| Data Engineering  
 💡 Building practical AI systems, data products, and intelligent automation solutions  
